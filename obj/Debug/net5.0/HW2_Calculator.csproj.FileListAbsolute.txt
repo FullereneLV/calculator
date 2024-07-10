@@ -1,0 +1,16 @@
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.exe
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.deps.json
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.runtimeconfig.json
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.runtimeconfig.dev.json
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.dll
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\ref\HW2_Calculator.dll
+D:\AQA24\HW2_Culculator\bin\Debug\net5.0\HW2_Calculator.pdb
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.csproj.AssemblyReference.cache
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.AssemblyInfoInputs.cache
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.AssemblyInfo.cs
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.csproj.CoreCompileInputs.cache
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.dll
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\ref\HW2_Calculator.dll
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.pdb
+D:\AQA24\HW2_Culculator\obj\Debug\net5.0\HW2_Calculator.genruntimeconfig.cache
